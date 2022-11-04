@@ -28,9 +28,7 @@
 
 # Features
 - Sign up, vehicle registration and login
- -validation. all fields are validated.
- 
--Display Google Maps
+ -all form fields are validated.
 
 
 -GeoFire[Get Driver Location Updates] and Online Offline Driver
