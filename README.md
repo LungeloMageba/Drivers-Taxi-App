@@ -28,8 +28,7 @@
 
 # Features
 - Sign up, vehicle registration and login
- -all form fields are validated.
-
+  -all form fields are validated.
 
 -GeoFire[Get Driver Location Updates] and Online Offline Driver
  -Get Driver Current Location
@@ -69,6 +68,11 @@
 -Driver Earnings| trips history |Total number of trips
  -driver earnings and trips count
  -show driver earnings and total number of trips and trips history
+
+-Driver's Ratings and profile screen
+  -read and display driver ratings using provider state management
+  -display driver profile screen
+ 
  
  
  
