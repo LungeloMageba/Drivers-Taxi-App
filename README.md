@@ -31,9 +31,9 @@
   - all form fields are validated.
 
 - GeoFire[Get Driver Location Updates] and Online Offline Driver
- - Get Driver Current Location
- - Drive can go online and offline driver
- - update driver location at real time
+  - Get Driver Current Location
+  - Drive can go online and offline driver
+  - update driver location at real time
 
 - Push Notification System
  -Push Notifications System- FCM Generate Token   for each Device
@@ -73,7 +73,22 @@
   -read and display driver ratings using provider state management
   -display driver profile screen
   
-#dependencies
+# dependencies
+- cupertino_icons: ^1.0.2
+- firebase_core: ^1.15.0
+- firebase_auth: ^3.3.15
+- firebase_database: ^9.0.12
+- fluttertoast: ^8.0.9
+- google_maps_flutter: ^2.1.4
+- geolocator: ^8.2.1
+- http: ^0.13.4
+- provider: ^6.0.3
+- flutter_polyline_points: ^1.0.0
+- flutter_geofire: ^2.0.1
+- smooth_star_rating_nsafe: 1.0.0+1
+- animated_text_kit: ^4.2.2
+- intl: ^0.17.0
+
 
  
  
