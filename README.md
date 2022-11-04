@@ -36,42 +36,42 @@
   - update driver location at real time
 
 - Push Notification System
- - Push Notifications System- FCM Generate Token   for each Device
- - Send Push Notification using Firebase Cloud Messaging
- - Retrieve user rideRequest information from Database using user rideRequestId
- - display notification dialog box with user ride request information
- - play notification received sound on driver phone
+  - Push Notifications System- FCM Generate Token   for each Device
+  - Send Push Notification using Firebase Cloud Messaging
+  - Retrieve user rideRequest information from Database using user rideRequestId
+  - display notification dialog box with user ride request information
+  - play notification received sound on driver phone
  
--Allow a driver to accept userRideRequest
- -driver accept userRideRequest and show initial user trip details to driver
+- Allow a driver to accept userRideRequest
+  - driver accept userRideRequest and show initial user trip details to driver
 
--Draw polyline from driver current location to user pickup location
- -retrieve current online driver data from firebase databse
- -save assigned driver details to userRideRequest information
+- Draw polyline from driver current location to user pickup location
+  - retrieve current online driver data from firebase databse
+  - save assigned driver details to userRideRequest information
  
--Animates move car icon marker at Real Time when the driver moves
- -pause and resume live location uddates using stream subscription
- -driver car icon marker animates move at real time when driver position change
+- Animates move car icon marker at Real Time when the driver moves
+  - pause and resume live location uddates using stream subscription
+  - driver car icon marker animates move at real time when driver position change
  
  -update duration time & driver location at real time in database
  
--Drivers Arrived| update, Set Polyline from pickup to dropoff.
-  -driver arrived at user pickup location -driver click arrived button
-  -update/set polyline from user pickup location to user dropOff location
-  -update duration time according to user ride request status
+- Drivers Arrived| update, Set Polyline from pickup to dropoff.
+   - driver arrived at user pickup location -driver click arrived button
+   - update/set polyline from user pickup location to user dropOff location
+   - update duration time according to user ride request status
   
--Fare amount collection dialog & save fare to drivers earnings
- -fare amount collection dialog
- -saving fare amount to driver's total earnings
- -driver can cancel the ride request
+- Fare amount collection dialog & save fare to drivers earnings
+  - fare amount collection dialog
+  - saving fare amount to driver's total earnings
+  - driver can cancel the ride request
  
--Driver Earnings| trips history |Total number of trips
- -driver earnings and trips count
- -show driver earnings and total number of trips and trips history
+- Driver Earnings| trips history |Total number of trips
+  - driver earnings and trips count
+  - show driver earnings and total number of trips and trips history
 
--Driver's Ratings and profile screen
-  -read and display driver ratings using provider state management
-  -display driver profile screen
+- Driver's Ratings and profile screen
+   - read and display driver ratings using provider state management
+   - display driver profile screen
   
 # dependencies
 - cupertino_icons: ^1.0.2
