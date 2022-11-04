@@ -11,7 +11,7 @@
 7. download the emulator. 
 8. run the project on the emulator you've downlaoded.
 
-#How to use the Drivers app
+# How to use the Drivers app
 1. Sign up as a driver and Register your vehicle/ login if you already have an account.
 2. press the 'now offline' button so that you can be online and riders/ passengers will be able send ride requests to you.
 
@@ -26,11 +26,23 @@
 # User Stories
 - a user can recieve ride requests.
 
-#Features
+# Features
 - Sign up, vehicle registration and login
  -validation. all fields are validated.
  
--Google Maps
+-Display Google Maps
+
+
+-GeoFire[Get Driver Location Updates] and Online Offline Driver
+ -Get Driver Current Location
+ -Drive can go online and offline driver
+ -update driver location at real time
+
+-Push Notification System
+ -Push Notifications System- FCM Generate Token for each Device
+ -Send Push Notification using Firebase Cloud Messaging
+
+ 
  
 
 
