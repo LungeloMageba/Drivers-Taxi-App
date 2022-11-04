@@ -72,6 +72,9 @@
 - Driver's Ratings and profile screen
    - read and display driver ratings using provider state management
    - display driver profile screen
+   
+# Future Features
+- update user profile 
   
 # dependencies
 - cupertino_icons: ^1.0.2
@@ -88,6 +91,9 @@
 - smooth_star_rating_nsafe: 1.0.0+1
 - animated_text_kit: ^4.2.2
 - intl: ^0.17.0
+
+# What the app looks like
+
 
 
  
