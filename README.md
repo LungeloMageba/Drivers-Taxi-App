@@ -13,5 +13,5 @@
 
 #How to use the Drivers app
 1. Sign up as a driver and Register your vehicle/ login if you already have an account.
-2. press the 'now offline' button so that you can be online and riders/ passengers willsend ride requests to you
-3. a 
+2. press the 'now offline' button so that you can be online and riders/ passengers will be able send ride requests to you
+3. a blue dialog box with a 'cancel' and 'accept' button will pop up on the screen when ever you have been requested for a ride. to cancel the ride request press 'cancel' to accept the ride request select 'accept' and a blue blue pollyline wil be drawn on your map from your current location to the passengers current location
