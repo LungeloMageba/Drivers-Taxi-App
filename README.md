@@ -36,11 +36,11 @@
   - update driver location at real time
 
 - Push Notification System
- -Push Notifications System- FCM Generate Token   for each Device
- -Send Push Notification using Firebase Cloud Messaging
- -Retrieve user rideRequest information from Database using user rideRequestId
- -display notification dialog box with user ride request information
- -play notification received sound on driver phone
+ - Push Notifications System- FCM Generate Token   for each Device
+ - Send Push Notification using Firebase Cloud Messaging
+ - Retrieve user rideRequest information from Database using user rideRequestId
+ - display notification dialog box with user ride request information
+ - play notification received sound on driver phone
  
 -Allow a driver to accept userRideRequest
  -driver accept userRideRequest and show initial user trip details to driver
