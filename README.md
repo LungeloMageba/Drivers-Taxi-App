@@ -46,7 +46,25 @@
 -Allow a driver to accept userRideRequest
  -driver accept userRideRequest and show initial user trip details to driver
 
-Draw polyline from driver current location to user pickup location
+-Draw polyline from driver current location to user pickup location
+ -retrieve current online driver data from firebase databse
+ -save assigned driver details to userRideRequest information
+ 
+-Animates move car icon marker at Real Time when the driver moves
+ -pause and resume live location uddates using stream subscription
+ -driver car icon marker animates move at real time when driver position change
+ 
+ -update duration time & driver location at real time in database
+ 
+-Drivers Arrived| update, Set Polyline from pickup to dropoff.
+ 
+      
+      
+ 
+ 
+
+
+
 
   
 
