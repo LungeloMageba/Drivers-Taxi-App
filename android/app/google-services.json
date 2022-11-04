@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161929890568",
+    "firebase_url": "https://ivaya-e1abf-default-rtdb.firebaseio.com",
+    "project_id": "ivaya-e1abf",
+    "storage_bucket": "ivaya-e1abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161929890568:android:2c2546432884a6f918babd",
+        "android_client_info": {
+          "package_name": "com.ivaya.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161929890568-5e7tje0grvq625acrq6vmgn8i6g4odr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRghN-HbP8WPrpZUu5_BKXCs-mWnOgIxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161929890568-5e7tje0grvq625acrq6vmgn8i6g4odr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
