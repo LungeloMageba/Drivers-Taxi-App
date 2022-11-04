@@ -57,6 +57,20 @@
  -update duration time & driver location at real time in database
  
 -Drivers Arrived| update, Set Polyline from pickup to dropoff.
+  -driver arrived at user pickup location -driver click arrived button
+  -update/set polyline from user pickup location to user dropOff location
+  -update duration time according to user ride request status
+  
+-Fare amount collection dialog & save fare to drivers earnings
+ -fare amount collection dialog
+ -saving fare amount to driver's total earnings
+ -driver can cancel the ride request
+ 
+-Driver Earnings| trips history |Total number of trips
+ -driver earnings and trips count
+ -show driver earnings and total number of trips and trips history
+ 
+ 
  
       
       
