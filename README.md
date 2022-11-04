@@ -28,14 +28,14 @@
 
 # Features
 - Sign up, vehicle registration and login
-  -all form fields are validated.
+  - all form fields are validated.
 
--GeoFire[Get Driver Location Updates] and Online Offline Driver
- -Get Driver Current Location
- -Drive can go online and offline driver
- -update driver location at real time
+- GeoFire[Get Driver Location Updates] and Online Offline Driver
+ - Get Driver Current Location
+ - Drive can go online and offline driver
+ - update driver location at real time
 
--Push Notification System
+- Push Notification System
  -Push Notifications System- FCM Generate Token   for each Device
  -Send Push Notification using Firebase Cloud Messaging
  -Retrieve user rideRequest information from Database using user rideRequestId
@@ -72,6 +72,9 @@
 -Driver's Ratings and profile screen
   -read and display driver ratings using provider state management
   -display driver profile screen
+  
+#dependencies
+
  
  
  
