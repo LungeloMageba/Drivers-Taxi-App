@@ -24,11 +24,14 @@
 7.collect payment.
 
 # User Stories
-- a user can recieve ride requests.
+- a Driver can recieve ride requests.
+- a driver total trips and earnings
 
 # Features
-- Sign up, vehicle registration and login
+- Authentication
+  - Sign up, vehicle registration and login
   - all form fields are validated.
+  - Driver logout
 
 - GeoFire[Get Driver Location Updates] and Online Offline Driver
   - Get Driver Current Location
@@ -74,7 +77,8 @@
    - display driver profile screen
    
 # Future Features
-- update user profile 
+- update driver profile
+- upload profile picture
   
 # dependencies
 - cupertino_icons: ^1.0.2
