@@ -1,5 +1,5 @@
 # Taxi app
- This is a iOS & Android Ride Sharing and Taxi Apps like Uber, myTaxi & Lyft Clone.
+ This is a iOS & Android where users can buy shoes and see their purchase & delivery history.
  
 # How to run the app
 1. download the project from github
