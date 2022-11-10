@@ -1,5 +1,5 @@
 # Drivers taxi app
- This is a iOS & Android where Driver .
+ This is a iOS & Android ride Sharing and Taxi Apps like Uber, myTaxi & Lyft Clone. .
  
 # How to run the app
 1. download the project from github
