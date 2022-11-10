@@ -1,5 +1,5 @@
-# online shoe store app
- This is a iOS & Android where users can buy shoes and see their purchase & delivery history.
+# Drivers taxi app
+ This is a iOS & Android where Driver .
  
 # How to run the app
 1. download the project from github
