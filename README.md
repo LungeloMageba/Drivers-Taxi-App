@@ -1,4 +1,4 @@
-# Taxi app
+# online shoe store app
  This is a iOS & Android where users can buy shoes and see their purchase & delivery history.
  
 # How to run the app
